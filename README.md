@@ -1,4 +1,4 @@
-<img src="profile.jpg" width="160" alt="John Packer" style="border-radius:50%;" />
+<img src="profile.png" width="160" alt="John Packer" />
 
 ## Hey, I'm John Packer
 
