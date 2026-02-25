@@ -1,3 +1,5 @@
+<img src="profile.jpg" width="160" alt="John Packer" style="border-radius:50%;" />
+
 ## Hey, I'm John Packer
 
 AI Agent Engineer building intelligent systems that compound over time.
